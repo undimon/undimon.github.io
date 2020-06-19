@@ -1,0 +1,30 @@
+#renderer,
+body {
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.topInfo {
+    display: flex;
+}
+
+.topInfo div {
+    padding: 8px;
+}
+
+.controlPanel {
+    padding: 10px 0;
+    display: flex;
+}
+
+.controlPanel .buttons {
+    margin: 0 10px;
+}
+
+/*# sourceMappingURL=/stylesheet.727f2e5c.css.map */
